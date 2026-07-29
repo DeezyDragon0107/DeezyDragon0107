@@ -1,4 +1,12 @@
-## Hi there 👋
+<div align="center">
+  # Hi there i'm **Diego**
+</div>
+
+
+
+## About Me
+- .Net Developer
+- Web Developer
 
 <!--
 **DeezyDragon0107/DeezyDragon0107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
