@@ -56,10 +56,7 @@ Bachelor of Science - BS · 2016 - 2021
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeezyDragon0107&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=DeezyDragon0107)](https://github.com/stats-organization/github-stats-extended)
 <p align="center">
   <i>"Turning ideas into functional and engaging digital solutions."</i>
 </p>
