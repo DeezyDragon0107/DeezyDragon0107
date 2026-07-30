@@ -15,7 +15,7 @@
 -  Strong foundation in **Object-Oriented Programming**
 -  I enjoy collaborative work in multidisciplinary teams
 -  Looking for opportunities to apply my web development skills and keep growing professionally
-- 
+  
 ---
 
 ### Core skills:
